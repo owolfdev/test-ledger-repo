@@ -1,0 +1,3 @@
+; Ledger Entry — main journal file
+!include accounts.journal
+!include entries/2025-01.journal

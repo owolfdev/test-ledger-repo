@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaults": {
+    "entity": "Personal",
+    "currency": "USD",
+    "fallbackCredit": "Personal:Assets:Bank:Checking"
+  },
+  "items": [],
+  "merchants": [],
+  "payments": []
+}
